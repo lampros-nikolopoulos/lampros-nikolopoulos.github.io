@@ -5,9 +5,9 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta name="description" content="J Robert Johansson" />
     <meta name="keywords" content="physics, scientific computing, quantum, qubit, solid state" />
-    <meta name="author" content="J Robert Johansson" />
+    <meta name="author" content="L. A.A. Nikolopoulos" />
 
-    <title>J Robert Johansson</title>
+    <title>Lampros A.A. Nikolopoulos</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 
     <!-- bootstrap stuff -->
@@ -59,7 +59,7 @@
 <div class="row">
     
 <div class="col-xs-4">
-<center><a href="numericalpython.html"><h2>Numerical Python book</h2></a></center>
+<center><a href="numericalpython.html"><h2>Teaching</h2></a></center>
 <p><center><a href="numericalpython.html"><img src="images/numericalpython-cover.jpg" width="75%"></a></center></p>
 </div>
 
@@ -69,7 +69,7 @@
 </div>
 
 <div class="col-xs-4">
-<center><a href="research.html"><h2>Physics research</h2></a></center>
+<center><a href="research.html"><h2>Research</h2></a></center>
 <p><center><a href="research.html"><img src="images/research-word-cloud-4.png" width="90%"></a></center></p>
 </div>
 </div>
@@ -92,7 +92,7 @@ Lectures on scientific computing with Python, computational quantum mechanics wi
 
 <div class="col-xs-4">
 <br>
-<p align="justify">Physics research page, including publications, presentations, posters, and research related software.</p>
+<p align="justify">Research</p>
 </div>
 
 </div>
@@ -102,7 +102,7 @@ Lectures on scientific computing with Python, computational quantum mechanics wi
 <hr />
 <p>
 <small>
-Copyright &copy; J Robert Johansson.
+Copyright &copy; L. A.A. Nikolopoulos.
 </p>
 </div>
 </div>
