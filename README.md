@@ -1,4 +1,4 @@
 
 Repository for github web pages:
 
-http://lampros-nikolopoulos.github.com
+http://lampros-nikolopoulos.github.io
